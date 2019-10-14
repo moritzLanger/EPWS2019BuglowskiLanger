@@ -3,8 +3,9 @@
 Exposé Entwicklungsprojekt
 
 	
-	Viele lernbeeinträchtigte Kinder werden mit einer Lese-Rechtschreibschwäche diagnostiziert, jedoch wissen viele nicht, dass
-mindestens die gleiche Anzahl an Kindern an einer Rechenschwäche leiden. Diese äußert sich häufig in Form von Problemen bei der
+
+Viele lernbeeinträchtigte Kinder werden mit einer Lese-Rechtschreibschwäche diagnostiziert,jedoch wissen viele nicht, 
+dass mindestens die gleiche Anzahl an Kindern an einer Rechenschwäche leiden. Diese äußert sich häufig in Form von Problemen bei der
 Repräsentation und Verarbeitung von Zahlen. Um erfolgreich Zahlen verarbeiten zu können, werden Repräsentationen wie die der visuellen
 Zahlenform, der räumlichen und semantischen Größenrepräsentation, der verbalen Zahlenrepräsentation sowie strategisches und konzeptuelles
 Wissen benötigt. Defizite in bereits einer Repräsentation können schon die Bewältigung komplexer Aufgaben erschweren, da auf die meisten
