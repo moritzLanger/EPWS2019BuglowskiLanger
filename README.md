@@ -13,9 +13,9 @@ Repräsentationen zurückgegriffen wird, sobald man kompliziertere Aufgaben lös
 schon im jungen Alter diesen Rechenschwächen vorzubeugen. 
 
 Hierzu möchten wir ein Computerprogramm erstellen, das spielend den Kindern helfen soll diese visuellen und räumlichen Defizite
-aufzuholen, um somit Schwierigkeiten komplexerer Aufgaben vorzubeugen.
+aufzuholen, um somit Schwierigkeiten komplexerer Aufgaben vorzubeugen.Genauer soll unser Programm Brettspiele umsetzen, die bereits 
+zur Behandlung von Rechenschwächen genutzt werden, damit Kinder selbstständig und spielerisch ihre Defizite aufholen können. 
 
-Als Hauptperspektive würden wir Visual Computing wählen, da der Schwerpunkt auf dem optischen Interface liegen sollte, als
-nebenperspektive wird dementsprechend Social Computing genommen, da wir mithilfe von „Gamification“ und „E-Learning“ eine angenehmere
-Benutzung erschaffen wollen. 
-	
+Als Hauptperspektive würden wir Visual Computing wählen, da der Schwerpunkt auf dem optischen Interface und der Umsetzung der Spiele 
+liegen sollte, als nebenperspektive wird dementsprechend Social Computing genommen, da wir mithilfe von „Gamification“ und „E-Learning“ 
+die Brettspiele analysieren wollen und eine angenehmere Benutzung erschaffen wollen. 
